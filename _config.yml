@@ -1,9 +1,9 @@
-title: Your awesome title
+title: Jr Dev
 subtitle: ...and more title
 author:
 avatar_url: /assets/img/unknown-avatar.png  # Should be 160x160px.
 description: >
-repository:
+repository: https://github.com/KamRon-67/jrdev.io
 
 # contact
 contact:

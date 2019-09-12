@@ -1,9 +1,8 @@
 @charset "utf-8";
 
 // Define defaults for each variable.
-// AT MINIMUM, OVERRIDE THESE FIRST FOUR TO MAKE THE THEME YOUR OWN
-$header-background-color: #652a2b !default;
-$brand-color:      #d2691e !default;
+$header-background-color: #7DB46CFF !default; // left side header
+$brand-color:      #E7EBE0FF !default; // header post text
 $post-font-family: 'Mate', Georgia, Cambria, "Times New Roman", Times, serif !default;
 $title-font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
 $base-font-family: "Open Sans Condensed", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
@@ -19,14 +18,14 @@ $spacing-unit:     30px !default;
 
 $text-color:       #111 !default;
 $muted-text-color: #656c7a;
-$background-color: #fdfdfd !default;
+$background-color: #111 !default;//#fdfdfd !default; // Right side border color and left side title color
 $highlight-color:  #fcf9eb;
 
 $caption-color:       #999;
 $caption-icon-color:  #333;
 
-$grey-color:       #828282 !default;
-$grey-color-medium:#aaa !default;
+$grey-color:       #828282 !default; // pagination border
+$grey-color-medium:#aaa !default; // meta section
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
