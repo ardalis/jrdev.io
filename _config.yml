@@ -57,7 +57,7 @@ haackbar:
 #
 permalink: /archive/:year/:month/:day/:title/
 paginate: 2 # number of posts per page
-page_group_size: 5 # number of pages to group by in the pagination.
+page_group_size: 2 # number of pages to group by in the pagination.
 paginate_path: "/archive/page/:num"
 
 # Front matter defaults
