@@ -1,8 +1,8 @@
 @charset "utf-8";
 
 // Define defaults for each variable.
-$header-background-color: #7DB46CFF !default; // left side header
-$brand-color:      #E7EBE0FF !default; // header post text
+$header-background-color: #2d3339 !default; // left side header
+$brand-color:      #258fb8 !default; // header post text
 $post-font-family: 'Mate', Georgia, Cambria, "Times New Roman", Times, serif !default;
 $title-font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
 $base-font-family: "Open Sans Condensed", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
@@ -16,9 +16,9 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-$text-color:       #111 !default;
+$text-color:       #333 !default;
 $muted-text-color: #656c7a;
-$background-color: #111 !default;//#fdfdfd !default; // Right side border color and left side title color
+$background-color: #ffffff !default; // Right side border color and left side title color
 $highlight-color:  #fcf9eb;
 
 $caption-color:       #999;
