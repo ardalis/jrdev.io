@@ -5,6 +5,9 @@ avatar_url: https://raw.githubusercontent.com/KamRon-67/jrdev.io/master/assets/i
 description: >
 repository: https://github.com/KamRon-67/jrdev.io
 
+# Google Analytics
+google_analytics: UA-149577567-1
+
 # contact
 contact:
   email:  # Comment out this line if you don't want to expose your email.
