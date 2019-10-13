@@ -1,9 +1,9 @@
-title: Jr Developer
+title: Jr Dev
 subtitle: Keeping software simple
 author:
 avatar_url: https://raw.githubusercontent.com/KamRon-67/jrdev.io/master/assets/img/avatar.png  # Should be 160x160px.
 description: > # this means to ignore newlines until "twitter_username:"
-Jr Dev is a blog about technology, software, management, and things that are helpful for new devs. 
+  Jr Dev is a blog about technology, software, management, and things that are helpful for new devs.
 repository: https://github.com/KamRon-67/jrdev.io
 
 # Google Analytics
@@ -29,14 +29,14 @@ rss: rss
 
 #
 # Subscribe Feed
-# 
+#
 # By default, your site generates a subscription feed (RSS/Atom) at /feed.xml
 # Uncomment the next two lines to change the path.
 # feed:
 #   path: /atom.xml
 
 # If you use a feed publisher such as Feedburner, uncomment the next line
-# subscribe_rss: https://your-feedburner-url/
+# subscribe_rss: http://feeds.feedburner.com/JrDev
 
 # Homepage
 show_excerpts: true  # set to true to show excerpts on the homepage, otherwise full posts are shown
