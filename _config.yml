@@ -1,8 +1,9 @@
-title: Jr Dev
-subtitle: ...and more title
+title: Jr Developer
+subtitle: Keeping software simple
 author:
 avatar_url: https://raw.githubusercontent.com/KamRon-67/jrdev.io/master/assets/img/avatar.png  # Should be 160x160px.
-description: >
+description: > # this means to ignore newlines until "twitter_username:"
+Jr Dev is a blog about technology, software, management, and things that are helpful for new devs. 
 repository: https://github.com/KamRon-67/jrdev.io
 
 # Google Analytics
@@ -11,7 +12,7 @@ google_analytics: UA-149577567-1
 # contact
 contact:
   email:  # Comment out this line if you don't want to expose your email.
-#  url: https://your-contact-url # Uncomment this to provide a contact form url instead of an email
+  url: https://github.com/KamRon-67/jrdev.io/issues/new # Uncomment this to provide a contact form url instead of an email
 
 # social links
 twitter_username: jekyllrb
@@ -26,7 +27,7 @@ rss: rss
 #youtube_username: jekyll
 #googleplus_username: +jekyll
 
-# 
+#
 # Subscribe Feed
 # 
 # By default, your site generates a subscription feed (RSS/Atom) at /feed.xml
