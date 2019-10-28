@@ -7,9 +7,8 @@ description: > # this means to ignore newlines until "twitter_username:"
 repository: https://github.com/KamRon-67/jrdev.io
 
 description: > # this means to ignore newlines until "twitter_username:"
-  You've been Haacked is a blog about
-  Technology, Software, Management, and Open Source.
-  It's full of good stuff.
+  This is a blog about
+  Technology, Software, Management, and Open Source stuff.
 
 # Google Analytics
 google_analytics: UA-149577567-1
