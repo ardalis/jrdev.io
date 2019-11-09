@@ -20,7 +20,7 @@ contact:
 
 # social links
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  KamRon-67
 rss: rss
 #dribbble_username: jekyll
 #facebook_username: jekyll
@@ -29,7 +29,7 @@ rss: rss
 #linkedin_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
-#googleplus_username: +jekyll
+#googleplus_username: +jekylld
 
 #
 # Subscribe Feed
@@ -50,7 +50,7 @@ show_excerpts: true  # set to true to show excerpts on the homepage, otherwise f
 comments:
   enabled: true
   show_count: false
-#  receiver: 
+#  receiver:
   disqus_shortname: jr-dev-1
 
 emptyArray: [] # Leave this here.
