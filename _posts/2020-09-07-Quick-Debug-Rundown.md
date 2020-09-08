@@ -2,14 +2,14 @@
 title: "Quick Debug Rundown"
 description: "We are going to talk about basic debugging skills"
 tags: [Quality Assurance, Debugging, Breakpoints]
-excerpt_image: 
+excerpt_image: https://raw.githubusercontent.com/KamRon-67/jrdev.io/master/assets/img/flower2.jpg
 ---
 
 Debugging is a major part of software development. Not only do you create new modules, but you must also maintain older ones. Some jobs are more focused on new software Greenfield project. Others may walk into a mature product and the job is to keep the status quo. 
 
 So jumping right into it breakpoints and walking through programs are a lifesaver. Breakpoints are one of the best tools in your box. Seeing the object's data at a certain place or time can solve a lot of problems. Sometimes what you expect to get passed in is passed incorrectly. Or something is updating your object after you expect it to be modified. Other times you may have to walk through the code and just see what happens at each section before you place a breakpoint for easy access.
 
-(add photos of the debugging page)
+![Image of a breakpoint in vscode](https://raw.githubusercontent.com/KamRon-67/jrdev.io/master/assets/img/Debug1.png "vs code breakpoint")
 
 Depending on if you are debugging front end tasks or back end tasks, you should have some options to drill down to the object level and look at the program's flow. When debugging you want to avoid guesses. Once again depending on your company, if you are using an Agile workflow this will help with your estimation technique.
 
