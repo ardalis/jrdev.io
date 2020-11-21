@@ -12,14 +12,16 @@ The longer I worked in development, the expectations of my skills increased as w
 I did not go over Relational Algebra or Relational Calculus. That seemed too technical. Learning the life cycle of a SQL query seemed like a good start.   
 
 The SQL query logical processing order  
-The query processing order has a unique flow as it is not top-down like a lot of other languages. The order is as follows  
-From (Source Data) 
-Where (Row filters) 
-Group By (Grouping) 
-Having (Group Filter) 
-Select (Return Expressions) 
-Order By (Presentation Order) 
-Offset Fetch (Paging) 
+The query processing order has a unique flow as it is not top-down like a lot of other languages. The order is as follows 
+
+1. From (Source Data) 
+2. Where (Row filters) 
+3. Group By (Grouping) 
+4. Having (Group Filter) 
+5. Select (Return Expressions) 
+6. Order By (Presentation Order) 
+7. Offset Fetch (Paging) 
+
 This was my first step in understanding the flow of a query and how to get the correct data back. Moving away from ad hoc SQL query writing was a breath of fresh air. Now I had gotten the foundation laid out. The next thing on my list was joining.  
 
 ## How Joins work under the hood 
