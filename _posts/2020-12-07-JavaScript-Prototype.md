@@ -2,7 +2,7 @@
 title: "Looking at the Prototype"
 description: "We are going to look at how the prototype and not ignore it"
 tags: [prototype, JavaScript, Prototype Chain, Prototype Chain, __proto__]
-excerpt_image: https://raw.githubusercontent.com/KamRon-67/jrdev.io/master/assets/img/pexels-gilberto-olimpio.jpg
+excerpt_image: https://raw.githubusercontent.com/KamRon-67/jrdev.io/master/assets/img/pexels-anna-shvets-3746197.jpg
 ---
 
 
@@ -16,7 +16,7 @@ I was noticing that JavaScript was playing by different rules than C# or Java. S
 
 ## The What
 
-![Image of a breakpoint in Visual Studio](https://raw.githubusercontent.com/KamRon-67/jrdev.io/master/assets/img/Debug2.png "Visual Studio code breakpoint")
+![Image of a model prototype chain](https://raw.githubusercontent.com/KamRon-67/jrdev.io/master/assets/img/Proto.jpg "A model of the prototype chain")
 
 Prototypical languages are just different. Now that I have a better understanding of them, I think they are kind of cool. So step one was understanding classical then prototypal inheritance. It took a second to understand that inheritance is different in this language and how simple it is. In JavaScript, all objects including functions have a prototype property. In the diagram above. The property is just a reference to another object we called proto. It would be an object that could stand on its own and could be independent if needed. So when you are calling prop 2 it is not on the object but it is actually on the object’s prototype. That prototype object can also point to another object. Each object can have its prototype. Let's use some code to see an example of the prototype chain. The prototype chain deals with where we have access to a property or method amid a sequence of objects. Those connected by this prototype property, here we are calling proto. The JavaScript engine will do the work for us by searching the prototype chain. We do not have to be explicit with our calls (Ex: we can just say object.prop2 and not object.proto.prop2) Let's see an example of this.
 
