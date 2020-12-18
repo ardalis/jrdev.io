@@ -34,7 +34,7 @@ Inner and outer joins are both qualified joins. The qualification predicate is s
 
 ## Join Order
 
-When joining multiple data sets, if you are exclusively working with inner joins, the order they are joined doesn't matter. This is not the case with outer joins, the order matter. 
+When joining multiple data sets, if you are exclusively working with inner joins, the order they are joined doesn't matter. This is not the case with outer joins, the order matter. To play with join the order we have the concept of [chiastic order](https://www.itprotoday.com/sql-server/take-control-joins). 
  
 
 
