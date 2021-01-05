@@ -1,6 +1,6 @@
 ---
 title: "My run in with groupings"
-tags: [Visual Studio, C#, LINQ, IGrouping, IGrouping<TKey, TElement>]
+tags: [Visual Studio, C#, LINQ, IGrouping]
 ---
 
 At work, I saw a collection set up that was unfamiliar to me. This collection was the IGrouping expression. At first, glance that the groupby extension was using a lambda expression to create a list of objects. The objects are sorted by the expression orederby used on the collection.
