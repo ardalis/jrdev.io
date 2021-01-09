@@ -6,7 +6,7 @@ tags: [Visual Studio, C#, Windows, Windows shortcuts]
 Below is a list of my daily drivers.
 
 
-This is a windows short cut is simmular to alt tab but only more aesthetically pleasing.
+This is a windows short cut that is similar to alt tab but more aesthetically pleasing.
 ![Windows tab](\assets\img\WinTab.gif){:class="img-responsive"}
 <br/>
 <br/>
